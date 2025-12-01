@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <title>Meu Primeiro Site</title>
+</head>
+<body style="background-color: white;">
+    
+    <h1 style = "text-align: center;">Olá, mundo!</h1>
+    <p style = "text-align: center;">Bem vindo ao meu primeiro WebSite!!!</p>
+    <pre style = "text-align: center;">
+Aqui você verá algumas imagens
+Sobre coisas de futebol:
+
+    <img src=https://s2-g1.glbimg.com/oZaf5ueGSRHY9_wF-dAizZSdp6I=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/X/a/apFKx6TQy3HJWF561hDw/vista-aerea-estadio-morumbi.png width="360" height="300" alt="Estádio do SPFC" style="display: block; margin-left: auto; margin-right: auto;"/>
+    <p style = "text-align: center;">Esse é o estádio do maior time do futebol brasileiro</p>
+
+</body>
+</html>
