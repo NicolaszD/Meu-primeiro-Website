@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <title>Meu Primeiro Site</title>
+    <style>
+        body {background-color: green;}
+        h1 {color: red}
+        p {color: black}
+    </style>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body style="background-color: white;">
+    
+    <h1 style = "text-align: center;">Olá, mundo!</h1>
+    <p style = "text-align: center;">Bem vindo ao meu primeiro WebSite!!! <code>(Feito em HTML)</code> Aproveite!</p>
+    <pre style = "text-align: center;">
+<em>Aqui você verá algumas imagens</em>
+<i>Sobre coisas de futebol:</i>
+
+    <img src=https://s2-g1.glbimg.com/oZaf5ueGSRHY9_wF-dAizZSdp6I=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/X/a/apFKx6TQy3HJWF561hDw/vista-aerea-estadio-morumbi.png width="450" height="300" alt="Estádio do SPFC" style="display: block; margin-left: auto; margin-right: auto;"/>
+    <p style = "text-align: center;"><strong>É o estádio do maior time do futebol brasileiro,</strong> <b>SPFC</b></p>
+
+    <pre>
+<mark>São Paulo Futebol Clube (SPFC) foi fundado em 1930.</mark>
+<small>E se tornou o maior time paulista e brasileiro.</small>
+<del>E maior do Mundo</del>
+<ins>Coquistando 3 Mundiais</ins>
+<sub>3 Libertadores</sub>
+<sup>22 paulistas</sup>
+<abbr>6 brasileiros</abbr>
+<bdo>9 milhões de torcedores</bdo>
+<blockquote>Um dos maiores estádios do Brasil</blockquote>
+<q>Dentre os grandes... és o primeiro</q>
+
+
+<cite>Visite nossa página principal:</cite>
+<address>spfc.com.br</address>
+
+    </pre>
+
+    <img src="https://s2-g1.glbimg.com/oZaf5ueGSRHY9_wF-dAizZSdp6I=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/X/a/apFKx6TQy3HJWF561hDw/vista-aerea-estadio-morumbi.png"
+    width="450" height="300"
+    alt="Essa é a imagem do estádio do SPFC" 
+    usemap="#estadio_morumbis">
+
+    <map name="estadio_morumbis">
+        <!-- Área clicável 1 - Canto superior esquerdo -->
+        <area shape="rect" 
+              coords="50,50,200,150" 
+              href="https://www.saopaulofc.net/enciclopedia-morumbis/"
+              target="_blank"
+              alt="Clique para ir ao site do SPFC"
+              title="Site oficial do São Paulo FC">
+        
+        <!-- Área clicável 2 - Canto inferior direito -->
+        <area shape="rect" 
+              coords="250,200,400,280" 
+              href="https://pt.wikipedia.org/wiki/Est%C3%A1dio_do_Morumbi" 
+              target="_blank"
+              alt="Clique para ver sobre o Morumbi"
+              title="Wikipedia do Estádio do Morumbi">
+    </map>
+
+</body>
+</html>
