@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <title>Meu Primeiro Site</title>
+    <style>
+        body {background-color: green;}
+        h1 {color: red}
+        p {color: black}
+    </style>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body style="background-color: white;">
+    
+    <h1 style = "text-align: center;">Olá, mundo!</h1>
+    <p style = "text-align: center;">Bem vindo ao meu primeiro WebSite!!! <code>(Feito em HTML)</code> Aproveite!</p>
+    <pre style = "text-align: center;">
+<em>Aqui você verá algumas imagens</em>
+<i>Sobre coisas de futebol:</i>
+
+    <img src=https://s2-g1.glbimg.com/oZaf5ueGSRHY9_wF-dAizZSdp6I=/0x0:1920x1080/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/X/a/apFKx6TQy3HJWF561hDw/vista-aerea-estadio-morumbi.png width="360" height="300" alt="Estádio do SPFC" style="display: block; margin-left: auto; margin-right: auto;"/>
+    <p style = "text-align: center;"><strong>É o estádio do maior time do futebol brasileiro,</strong> <b>SPFC</b></p>
+
+    <pre><mark>
+São Paulo Futebol Clube (SPFC) foi fundado em 1930.</mark>
+<small>E se tornou o maior time paulista e brasileiro.</small>
+<del>E maior do Mundo</del>
+<ins>Coquistando 3 Mundiais</ins>
+<sub>3 Libertadores</sub>
+<sup>22 paulistas</sup>
+<abbr>6 brasileiros</abbr>
+<bdo>9 milhões de torcedores</bdo>
+<blockquote>Um dos maiores estádios do Brasil</blockquote>
+<q>Dentre os grandes... és o primeiro</q>
+
+
+<cite>Visite nossa página principal:</cite>
+<address>spfc.com.br</address>
+
+    </pre>
+
+</body>
+</html>
